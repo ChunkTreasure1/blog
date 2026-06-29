@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Ivars Blog
+subtitle: "A blog about code and stuff"
+email: ivar.jonsson02@gmail.com
+name: Ivar Jönsson
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  A blog where I post about code and stuff.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -57,8 +57,8 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: volt
+    desc: "Posts regarding the game engine Volt."
 
 # Social icons and sharing options
 #
@@ -76,31 +76,17 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
-    share: true
-
-  - name: Facebook
-    icon: facebook
-    username: thebencentra
-    url: ""
-    desc: Friend me on Facebook
-    share: true
-
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: ChunkTreasure1
+    url: https://github.com/ChunkTreasure1
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Ivar Jönsson
+    url: https://www.linkedin.com/in/ivar-j%C3%B6nsson/
     desc: Connect with me on LinkedIn
     share: true
 
